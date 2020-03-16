@@ -14,7 +14,7 @@ Docker-Compose consists of the following images:
 * docker-compose
 ### Checkout Repo
 ```bash
-git clone https://github.com/dpfaffenbauer/pimcore-docker-compose.git
+git clone https://github.com/oliwerhelsen/pimcore-docker-compose.git
 cd pimcore-docker-compose/
  ```
 ### Run Containers
